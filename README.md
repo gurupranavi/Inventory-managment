@@ -34,31 +34,44 @@ Product Search: Find products by ID or name
 inventory.csv - Product ID, Name, Price, Stock
 
 sales.csv - DateTime, Total, Discount, Final Amount
+
 Bill Files - bill_YYYYMMDD_HHMMSS.txt/csv receipts
+
 Product data with pricing and inventory levels
+
 Sales transactions with discount tracking
+
 Individual customer receipts for each transaction
 
 ------------------------------------------------------------------------
 
 ## Billing System:
+
 Cart Management - Add/remove items with quantity validation
+
 Discount System - Percentage or fixed amount discounts
+
 Checkout Process - Finalize sale and update inventory
+
 Bill Generation - Create TXT/CSV receipts automatically
+
 Payment Calculation - Subtotal, discount, final amount
 
 ------------------------------------------------------------------------
 
 ## Reports & Analytics:
+
 Sales Reports - Custom date range reports
+
 Daily Sales - Daily transaction summaries
+
 Low Stock Alerts - Products needing restocking
+
 Product Statistics - Inventory value and stock levels
 
 ------------------------------------------------------------------------
 
-Main Menu Options:
+## Main Menu Options:
 1. Inventory Management
 
 View, add, update, delete, and search products
