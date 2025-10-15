@@ -1,4 +1,4 @@
-Inventory Management & Billing System -- Python Console Application
+## Inventory Management & Billing System -- Python Console Application
 
 Project Overview:
 A comprehensive Python-based Inventory Management and Billing System that allows businesses to manage product inventory, process customer orders, generate bills, and track sales. The system uses CSV files for data persistence and provides a console-based interface.
