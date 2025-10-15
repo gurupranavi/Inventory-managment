@@ -89,9 +89,9 @@ Product Statistics - Inventory value and stock levels
 
 3. Reports & Analytics
 
-  Daily sales reports with revenue tracking
+     Daily sales reports with revenue tracking
 
-  stock alerts for inventory management
+     stock alerts for inventory management
 
 4. Exit
 
