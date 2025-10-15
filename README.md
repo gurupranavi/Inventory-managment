@@ -42,63 +42,26 @@ Low Stock Alerts - Products needing restocking
 Product Statistics - Inventory value and stock levels
 
 Main Menu Options:
-Product Management Menu
-Adding a Product
-Select option 1 from main menu
+1. Inventory Management
 
-Choose "1. Add Product"
+View, add, update, delete, and search products
 
-Enter:
+Manage product details, prices, and stock quantities
 
-Product ID: Unique identifier (e.g., "P001")
+2. Billing & Sales
 
-Name: Product name (e.g., "Laptop")
+Cart management with add/remove items
 
-Price: Unit price (e.g., 999.99)
+Apply discounts and complete checkout
 
-Stock Quantity: Initial stock (e.g., 50)
+Generate printable receipts
 
-Updating a Product
-Use "2. Update Product" to modify existing products
+3. Reports & Analytics
 
-Leave fields blank to keep current values
+Daily sales reports with revenue tracking
 
-Searching Products
-Search by product ID or name (partial matches supported)
+Low stock alerts for inventory management
 
-2. Billing Process
-Adding Items to Cart
-Select "2. Billing" from main menu
+4. Exit
 
-Choose "1. Add to Cart"
-
-Enter Product ID and quantity
-
-System validates stock availability
-
-Applying Discounts
-Percentage Discount: Enter percentage (e.g., 10 for 10% off)
-
-Fixed Discount: Enter amount (e.g., 50 for $50 off)
-
-Checkout
-Review cart with "3. View Cart"
-
-Apply discounts if needed
-
-Select "5. Checkout" to complete sale
-
-Choose to save bill in TXT or CSV format
-
-3. Reports
-Daily Sales Report
-View sales for any specific date
-
-Shows transaction count and total revenue
-
-Defaults to current date if no date specified
-
-Low Stock Report
-Identifies products below threshold (default: 5 units)
-
-Customizable threshold value
+Close application
