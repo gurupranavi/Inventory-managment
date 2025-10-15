@@ -72,26 +72,27 @@ Product Statistics - Inventory value and stock levels
 ------------------------------------------------------------------------
 
 ## Main Menu Options:
+
 1. Inventory Management
 
-View, add, update, delete, and search products
+   View, add, update, delete, and search products
 
-Manage product details, prices, and stock quantities
+   Manage product details, prices, and stock quantities
 
 2. Billing & Sales
 
-Cart management with add/remove items
+   Cart management with add/remove items
 
-Apply discounts and complete checkout
+   Apply discounts and complete checkout
 
-Generate printable receipts
+   Generate printable receipts
 
 3. Reports & Analytics
 
-Daily sales reports with revenue tracking
+  Daily sales reports with revenue tracking
 
-Low stock alerts for inventory management
+  stock alerts for inventory management
 
 4. Exit
 
-Close application
+   Close application
