@@ -1,0 +1,5 @@
+product_id,name,price,stock_quantity
+109,books,1200.0,3
+207,stationary,200.0,5
+231,dress,1700.0,1
+141,earpods,2000.0,2
